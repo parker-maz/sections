@@ -54,7 +54,7 @@ p {
   vertical-align: middle;
 }
 
-a {
+.btn {
   text-decoration: none;
   display: inline-block;
   color: #666;
