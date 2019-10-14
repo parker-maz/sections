@@ -54,9 +54,10 @@ p {
 }
 
 .btn {
+  font-size: 1.125rem;
   text-decoration: none;
   display: inline-block;
-  color: #666;
+  color: #333;
   border: 3px solid #333;
   border-radius: 8px;
   padding: .5em;
