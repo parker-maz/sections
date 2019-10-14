@@ -22,8 +22,6 @@ section {
 }
 
 .image {
-  padding: .75em;
-  margin: 0 1.5rem;
   display: inline-block;
   max-width: 25em;
   vertical-align: middle;
@@ -44,9 +42,10 @@ p {
 }
 
 .text {
-  padding: .75em;
+  padding: 0 .75em;
   margin: 0 1.5rem;
   display: inline-block;
+  font-size: 1.125rem;
   max-width: 25em;
   text-align: left;
   vertical-align: middle;
