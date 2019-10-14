@@ -32,7 +32,8 @@ section {
 }
 
 img {
-  width: 25em;
+  display: inline-block;
+  width: 100%;
 }
 
 h2 {
