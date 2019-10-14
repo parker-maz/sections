@@ -12,12 +12,10 @@ html {
 
 body {
   margin: 0;
-  padding: 2em;
   text-align: center;
 }
 
 section {
-  display: block;
   width: 100%;
   padding-top: 2em;
   padding-bottom: 2em;
@@ -32,7 +30,7 @@ section {
 }
 
 img {
-  display: inline-block;
+  display: block;
   width: 100%;
 }
 
